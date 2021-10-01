@@ -1,0 +1,24 @@
+body {
+  font-family: "Nunito Sans", sans-serif;
+  margin-top: 0px;
+}
+
+h1,
+h3 {
+  text-align: center;
+  margin: 3px;
+}
+
+svg {
+  display: block;
+  margin: auto;
+}
+
+#tooltip {
+  padding: 4px;
+  background: #fffeb7;
+  border: 0px;
+  border-radius: 4px;
+  text-align: center;
+  color: black;
+}
